@@ -112,3 +112,23 @@ section {
   column-gap: 30px;
   row-gap: 20px;
 }
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+  font-family: Neucha;
+  src: url(fonts/Neucha-Regular.ttf);
+}
+
+@font-face {
+  font-family: "open sans";
+  src: url(fonts/OpenSans-Regular.ttf);
+}
