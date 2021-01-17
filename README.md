@@ -4,7 +4,7 @@
 
 Hello! My name is Yury Kurylovich and this is my first layout designer project on Hexlet.
 
-You can see it at the link ➡ http://typical-metal.surge.sh/
+You can see it at the link ➡ http://low-step.surge.sh/
 
 # HTML/CSS Boilerplate
 
