@@ -113,7 +113,7 @@ footer {
 }
 
 .background-image::before {
-  background-image: url("./images/background.png");
+  background-image: url("../images/background.png");
 }
 
 .background-color-light::after {
@@ -286,7 +286,7 @@ footer {
   margin-top: -12px;
   margin-left: -12px;
 
-  background-image: url("./images/send.svg");
+  background-image: url("../images/send.svg");
 
   content: "";
 }
